@@ -1,6 +1,6 @@
 name: mcdeanstudios
 favicon: null
-layout_spectrum: 0.5184994300361723
+layout_spectrum: 0.99697
 typography_spectrum: 0.5920784929767251
 title: MC Dean Studios
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#dbdad6'
+    - '#fe6a24'
+    - '#242227'
+    - '#40acae'
+    - '#58637f'
   brandStrength: 0.19238824071362615
   lightness: 0.8250081688165665
   saturation: 0.7479005826171488
